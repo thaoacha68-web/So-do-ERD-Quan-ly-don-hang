@@ -11,3 +11,7 @@
 ## Prompt 3: Thiet ke quan he 1-1
 - **Prompt:** "Lam sao de thiet lap quan he 1-1 giua bang Appointments va Prescriptions trong MySQL?"
 - **Ket qua:** AI huong dan them ràng buộc `UNIQUE` vao khoá ngoai `appointment_id` trong bang `Prescriptions`.
+
+## Prompt 4: Thiet ke CSDL thue xe AutoRide
+- **Prompt:** "Tai sao nen dung DECIMAL(10,2) cho cac cot tai chinh security_deposit, damage_fee trong MySQL va loi ich cua viec tach bang Inspections?"
+- **Ket qua:** AI phan tich nguy co sai so cua FLOAT, dong thoi khuyen nghi tach bang Inspections de chuan hoa du lieu va luu vet bien ban kiem tra xe.
